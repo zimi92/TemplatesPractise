@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\saniola\documents\visual studio 2015\projects\templates\templates\main.cpp(11): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\saniola\documents\visual studio 2015\projects\templates\templates\main.cpp(11): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  templatesExp.cpp
+  Templates.vcxproj -> c:\users\saniola\documents\visual studio 2015\Projects\Templates\Debug\Templates.exe
+  Templates.vcxproj -> c:\users\saniola\documents\visual studio 2015\Projects\Templates\Debug\Templates.pdb (Partial PDB)
