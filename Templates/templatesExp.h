@@ -21,6 +21,7 @@ public:
 		std::cout << result << std::endl;
 		return result;
 	}
+
 	void displayResault();
 	templatesExp();
 	~templatesExp();
